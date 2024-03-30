@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\css\css\**" />
+    <Content Remove="wwwroot\css\css\**" />
+    <EmbeddedResource Remove="wwwroot\css\css\**" />
+    <None Remove="wwwroot\css\css\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Shared\Roles.cshtml" />
+    <Content Remove="Views\Shared\servicios.cshtml" />
+    <Content Remove="wwwroot\favicon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="5.3.3" />
+    <PackageReference Include="Font.Awesome" Version="5.15.4" />
+    <PackageReference Include="jquery.datatables" Version="1.10.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.12" />
+  </ItemGroup>
+
+</Project>

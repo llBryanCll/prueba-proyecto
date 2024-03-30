@@ -1,0 +1,139 @@
+﻿@model ProyectoSenaLmour.Models.Reserva
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h4>Registrar Reserva</h4>
+<hr />
+<form asp-action="Create" asp-controller="Reservas" method="post">
+    <div class="row">
+        <div class="col-md-4">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @* <div class="form-group">
+            <label asp-for="IdReserva" class="control-label"></label>
+            <input asp-for="IdReserva" class="form-control" />
+            <span asp-validation-for="IdReserva" class="text-danger"></span>
+            </div> *@
+            <input type="hidden" asp-for="IdReserva" />
+            <div class="form-group">
+                <label asp-for="NroDocumentoCliente" class="control-label">Identificación Cliente</label>
+                <input asp-for="NroDocumentoCliente" class="form-control" asp-items="ViewBag.NroDocumentoCliente"></input>
+            </div>
+            <div class="form-group">
+                <label asp-for="NroDocumentoUsuario" class="control-label">Identificación Usuario</label>
+                <input asp-for="NroDocumentoUsuario" class="form-control" asp-items="ViewBag.NroDocumentoUsuario"></input>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaReserva" class="control-label">Fecha de reserva</label>
+                <input id="fechaHoy" asp-for="FechaReserva" type="text" class="form-control" />
+                <span asp-validation-for="FechaReserva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaInicio" class="control-label">Fecha de ingreso</label>
+                <input asp-for="FechaInicio" class="form-control" />
+                <span asp-validation-for="FechaInicio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaFinalizacion" class="control-label">Fecha de salida</label>
+                <input asp-for="FechaFinalizacion" class="form-control" />
+                <span asp-validation-for="FechaFinalizacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NroPersonas" class="control-label">Número de personas</label>
+                <input asp-for="NroPersonas" class="form-control" />
+                <span asp-validation-for="NroPersonas" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="SubTotal" class="control-label">Subtotal</label>
+                <input asp-for="SubTotal" class="form-control" />
+                <span asp-validation-for="SubTotal" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Descuento" class="control-label">Descuento</label>
+                <input asp-for="Descuento" class="form-control" />
+                <span asp-validation-for="Descuento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Iva" class="control-label">Iva</label>
+                <input asp-for="Iva" class="form-control" />
+                <span asp-validation-for="Iva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MontoTotal" class="control-label">Monto total</label>
+                <input asp-for="MontoTotal" class="form-control" />
+                <span asp-validation-for="MontoTotal" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdMetodoPago" class="control-label">Método de pago</label>
+                <select asp-for="IdMetodoPago" class="form-control" asp-items="ViewBag.MetodoPago"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdEstadoReserva" class="control-label">Estado de reserva</label>
+                <select asp-for="IdEstadoReserva" class="form-control" asp-items="ViewBag.IdEstadoReserva"></select>
+            </div>
+        </div>
+    </div>
+    <div class="btn_crear">
+        <input type="submit" value="Crear Reserva" class="btn btn-primary" />
+    </div>
+    <div class="btn_volver">
+        <a asp-action="Index">Volver</a>
+    </div>
+</form>
+
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <style>
+
+        .btn_crear {
+            cursor: pointer;
+            top: 450px;
+            position: absolute;
+        }
+
+        .btn_volver {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 2px solid #000;
+            border-radius: 10px;
+            padding: 5px 5px;
+            width: 80px;
+            background-color: #393d3f;
+            color: white;
+            cursor: pointer;
+            top: 452px;
+            position: absolute;
+            right: 69%;
+        }
+
+    </style>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+    <script>
+        const fecha = new Date();
+        var formato = 'dd/mm/yyyy';
+
+        const map = {
+            dd: (fecha.getDate() < 10 ? '0' : '') + fecha.getDate(),
+            mm: (fecha.getMonth() + 1 < 10 ? '0' : '') + (fecha.getMonth() + 1),
+            yyyy: fecha.getFullYear()
+        }
+
+        var fechaHoy = formato.replace(/dd|mm|yyyy/gi, matched => map[matched]);
+
+        $('#fechaHoy').val(fechaHoy);
+    </script>
+}
+

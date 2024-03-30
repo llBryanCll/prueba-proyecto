@@ -1,0 +1,49 @@
+﻿@model ProyectoSenaLmour.Models.Servicio
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Servicio</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NomServicio)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NomServicio)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Costo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Costo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IdTipoServicioNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdTipoServicioNavigation.IdTipoServicio)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdServicio">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

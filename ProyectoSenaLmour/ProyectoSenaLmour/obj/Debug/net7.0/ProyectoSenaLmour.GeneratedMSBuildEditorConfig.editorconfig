@@ -1,0 +1,427 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoSenaLmour
+build_property.RootNamespace = ProyectoSenaLmour
+build_property.ProjectDir = C:\Users\User\Documents\ProyectoSenaLmour3.0\ProyectoSenaLmour\ProyectoSenaLmour\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\Documents\ProyectoSenaLmour3.0\ProyectoSenaLmour\ProyectoSenaLmour
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Abonos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvbm9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Abonos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvbm9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Abonos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvbm9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Abonos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvbm9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Abonos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvbm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Acceso/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/DetalleReservaPaquetes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVJlc2VydmFQYXF1ZXRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/DetalleReservaPaquetes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVJlc2VydmFQYXF1ZXRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/DetalleReservaPaquetes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVJlc2VydmFQYXF1ZXRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/DetalleReservaPaquetes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVJlc2VydmFQYXF1ZXRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/DetalleReservaPaquetes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVJlc2VydmFQYXF1ZXRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/DetalleReservaServicios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVJlc2VydmFTZXJ2aWNpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/DetalleReservaServicios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVJlc2VydmFTZXJ2aWNpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/DetalleReservaServicios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVJlc2VydmFTZXJ2aWNpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/DetalleReservaServicios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVJlc2VydmFTZXJ2aWNpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/DetalleReservaServicios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVJlc2VydmFTZXJ2aWNpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/EstadosReservas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1Jlc2VydmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/EstadosReservas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1Jlc2VydmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/EstadosReservas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1Jlc2VydmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/EstadosReservas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1Jlc2VydmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/EstadosReservas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1Jlc2VydmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Habitaciones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvbmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Habitaciones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvbmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Habitaciones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvbmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Habitaciones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvbmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Habitaciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvbmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Home/clientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjbGllbnRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Home/compras.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb21wcmFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Home/Ventas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZW50YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/MetodoPagoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0b2RvUGFnb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/MetodoPagoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0b2RvUGFnb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/MetodoPagoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0b2RvUGFnb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/MetodoPagoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0b2RvUGFnb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/MetodoPagoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0b2RvUGFnb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/PaqueteServicios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFxdWV0ZVNlcnZpY2lvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/PaqueteServicios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFxdWV0ZVNlcnZpY2lvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/PaqueteServicios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFxdWV0ZVNlcnZpY2lvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/PaqueteServicios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFxdWV0ZVNlcnZpY2lvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/PaqueteServicios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFxdWV0ZVNlcnZpY2lvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Paquetes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFxdWV0ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Paquetes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFxdWV0ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Paquetes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFxdWV0ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Paquetes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFxdWV0ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Paquetes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFxdWV0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/PermisosRoles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzb3NSb2xlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/PermisosRoles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzb3NSb2xlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/PermisosRoles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzb3NSb2xlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/PermisosRoles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzb3NSb2xlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/PermisosRoles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzb3NSb2xlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Permiso/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Permiso/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Permiso/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Permiso/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Permiso/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/recuperarcontraseña.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVjdXBlcmFyY29udHJhc2XDsWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Reservas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Reservas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Reservas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Reservas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Reservas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Servicios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Servicios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Servicios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Servicios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Servicios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoDocumentoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RvY3VtZW50b2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoDocumentoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RvY3VtZW50b2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoDocumentoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RvY3VtZW50b2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoDocumentoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RvY3VtZW50b2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoDocumentoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RvY3VtZW50b2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoHabitaciones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0hhYml0YWNpb25lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoHabitaciones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0hhYml0YWNpb25lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoHabitaciones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0hhYml0YWNpb25lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoHabitaciones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0hhYml0YWNpb25lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoHabitaciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0hhYml0YWNpb25lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoServicios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1NlcnZpY2lvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoServicios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1NlcnZpY2lvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoServicios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1NlcnZpY2lvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoServicios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1NlcnZpY2lvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/TipoServicios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1NlcnZpY2lvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/ProyectoSenaLmour3.0/ProyectoSenaLmour/ProyectoSenaLmour/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mezr7w2pdc

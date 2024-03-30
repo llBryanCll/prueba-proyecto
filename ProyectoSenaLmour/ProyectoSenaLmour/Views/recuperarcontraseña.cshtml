@@ -1,0 +1,23 @@
+﻿
+@model ProyectoSenaLmour.Controllers.AccesoController
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Recuperar Contraseña</h2>
+
+@if (ViewData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewData["ErrorMessage"]
+    </div>
+}
+
+<form asp-action="ForgotPassword" method="post">
+    <div class="form-group">
+        <label>Email:</label>
+        <input type="email" name="email" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar correo de recuperación</button>
+</form>

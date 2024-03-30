@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Downloads\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\User\Downloads\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\User\Downloads\proye\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\User\Downloads\proye\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Downloads\proye\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\proye\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\proye\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\User\Downloads\proye\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaNegocio\obj\Debug\CapaNegocio.pdb

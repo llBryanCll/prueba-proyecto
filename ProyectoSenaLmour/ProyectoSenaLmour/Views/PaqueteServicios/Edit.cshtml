@@ -1,0 +1,42 @@
+﻿@model ProyectoSenaLmour.Models.PaqueteServicio
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>PaqueteServicio</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdPaqueteServicio" />
+            <div class="form-group">
+                <label asp-for="IdPaquete" class="control-label"></label>
+                <select asp-for="IdPaquete" class="form-control" asp-items="ViewBag.IdPaquete"></select>
+                <span asp-validation-for="IdPaquete" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdServicio" class="control-label"></label>
+                <select asp-for="IdServicio" class="form-control" asp-items="ViewBag.IdServicio"></select>
+                <span asp-validation-for="IdServicio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Costo" class="control-label"></label>
+                <input asp-for="Costo" class="form-control" />
+                <span asp-validation-for="Costo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

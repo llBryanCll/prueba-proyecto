@@ -1,0 +1,69 @@
+﻿@model IEnumerable<ProyectoSenaLmour.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="https://cdn.datatables.net/v/dt/dt-2.0.1/datatables.min.js"></script>
+<script src="DataTables/datatables.min.js"></script>
+<script src="~/js/site.js"></script>
+<br>
+<br>
+<h1></h1>
+
+<div class="card">
+    <div class="card-header">
+        <i class="fas fa-users me-1"></i> Lista de Usuarios
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-3">
+                <form asp-controller="Usuarios" asp-action="Index">
+                </form>
+            </div>
+                <p>
+                    <a asp-action="Create" button type="button" class="btn btn-success">Crear Nuevo</a>
+                </p>
+                </div>
+
+        <table id="usersTable" class="table table-striped table-bordered dt-responsive nowrap" style="width:100%">
+            <thead>
+                <tr>
+                  
+                    <th>@Html.DisplayNameFor(model => model.Nombres)</th>
+                    <th>@Html.DisplayNameFor(model => model.Apellidos)</th>
+                    <th>@Html.DisplayNameFor(model => model.Celular)</th>
+                    <th>@Html.DisplayNameFor(model => model.Correo)</th>
+                    <th>@Html.DisplayNameFor(model => model.Contraseña)</th>
+                    <th>@Html.DisplayNameFor(model => model.Estado)</th>
+                  
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        
+                        <td>@Html.DisplayFor(modelItem => item.Nombres)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Apellidos)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Celular)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Correo)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Contraseña)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                       
+                        <td>
+                            <a asp-action="Edit" button type="button" class="btn btn-primary" asp-route-id="@item.NroDocumento">Editar</a>
+                            <a asp-action="Details" button type="button" class="btn btn-secondary" asp-route-id="@item.NroDocumento">Detalles</a>
+                            <a asp-action="Delete" button type="button" class="btn btn-danger" asp-route-id="@item.NroDocumento">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+

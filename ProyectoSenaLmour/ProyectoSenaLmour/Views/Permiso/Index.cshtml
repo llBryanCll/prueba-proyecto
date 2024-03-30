@@ -1,0 +1,99 @@
+﻿@model IEnumerable<ProyectoSenaLmour.Models.Permiso>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<script src="https://cdn.datatables.net/v/dt/dt-2.0.1/datatables.min.js"></script>
+<script src="DataTables/datatables.min.js"></script>
+<script src="~/js/site.js"></script>
+
+        <!DOCTYPE html>
+        <html lang="es">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Permisos de la aplicación</title>
+            <link rel="stylesheet" href="estilos.css">
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css">
+</head>
+  <body>
+
+
+            <div class="container">
+                <h1>Permisos de la aplicación</h1>
+                
+            </div>
+                    <div class="table-responsive">
+                        <table class="table table-bordered"   id="PermissionTable" class="table table-striped table-bordered"   >
+                            <thead>
+                                <tr>
+                                    <th>Permiso</th>
+                                    <th>Descripción</th>
+                                    <th>Activar/Desactivar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Ver usuarios</td>
+                                    <td>Permite ver la lista de usuarios registrados en la aplicación.</td>
+                                    <td>
+                                        <div class="form-check form-switch">
+                                        <input class="form-check-input" type="checkbox" id="ver-usuarios" name="permisos[]" value="VerUsuarios">
+                                        <label class="form-check-label" for="ver-usuarios"></label>
+                                    </td>
+                                </tr>
+                                <!-- Repite el siguiente bloque para agregar más permisos -->
+                                 <tr>
+                                    <td>Ver Clientes</td>
+                                    <td>Permite ver la lista de cliente registrados en la aplicación</td>
+                                    <td>
+                                        <div class="form-check form-switch">
+                                        <input class="form-check-input" type="checkbox" id="ver-cliente" name="permisos[]" value="VerCliente">
+                                        <label class="form-check-label" for="ver-cliente"></label>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>Ver habitaciones</td>
+                                    <td>Permite ver la lista de habitaciones disponibles y ocupadas en la aplicación</td>
+                                    <td>
+                                        <div class="form-check form-switch">
+                                            <input class="form-check-input" type="checkbox" id="ver-habitaciones" name="permisos[]" value="VerHabitacion">
+                                            <label class="form-check-label" for="ver-Habitacion"></label>
+                                    </td>
+                                </tr
+                                
+                                <tr>
+                                    <td>Ver servicios </td>
+                                    <td>Permite ver la lista de servicios ofrecidos en la aplicación</td>
+                                    <td>
+                                        <div class="form-check form-switch">
+                                            <input class="form-check-input" type="checkbox" id="ver-servicios" name="permisos[]" value="VerHabitacion">
+                                            <label class="form-check-label" for="ver-servicios"></label>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Ver paquete</td>
+                                    <td>Permite ver la lista de paquete ofrecidos en la aplicación</td>
+                                    <td>
+                                        <div class="form-check form-switch">
+                                            <input class="form-check-input" type="checkbox" id="ver-paquete" name="permisos[]" value="Verpaquete">
+                                            <label class="form-check-label" for="ver-paquete"></label>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <button type="submit" class="btn btn-primary">Guardar cambios</button>
+                        </div>
+                    </div>
+            
+     </body>
+        
+</html>

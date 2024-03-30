@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\ProyectoSenaLmour3.0\\ProyectoSenaLmour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACEDC59-B497-4502-B60B-B7153FC46FD9}|ProyectoSenaLmour\\ProyectoSenaLmour.csproj|c:\\users\\user\\documents\\proyectosenalmour3.0\\proyectosenalmour\\proyectosenalmour\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACEDC59-B497-4502-B60B-B7153FC46FD9}|ProyectoSenaLmour\\ProyectoSenaLmour.csproj|solutionrelative:proyectosenalmour\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACEDC59-B497-4502-B60B-B7153FC46FD9}|ProyectoSenaLmour\\ProyectoSenaLmour.csproj|c:\\users\\user\\documents\\proyectosenalmour3.0\\proyectosenalmour\\proyectosenalmour\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACEDC59-B497-4502-B60B-B7153FC46FD9}|ProyectoSenaLmour\\ProyectoSenaLmour.csproj|solutionrelative:proyectosenalmour\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACEDC59-B497-4502-B60B-B7153FC46FD9}|ProyectoSenaLmour\\ProyectoSenaLmour.csproj|c:\\users\\user\\documents\\proyectosenalmour3.0\\proyectosenalmour\\proyectosenalmour\\views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ACEDC59-B497-4502-B60B-B7153FC46FD9}|ProyectoSenaLmour\\ProyectoSenaLmour.csproj|solutionrelative:proyectosenalmour\\views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ProyectoSenaLmour3.0\\ProyectoSenaLmour\\ProyectoSenaLmour\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ProyectoSenaLmour\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\ProyectoSenaLmour3.0\\ProyectoSenaLmour\\ProyectoSenaLmour\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ProyectoSenaLmour\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:22:19.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ProyectoSenaLmour3.0\\ProyectoSenaLmour\\ProyectoSenaLmour\\Views\\Reservas\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoSenaLmour\\Views\\Reservas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\ProyectoSenaLmour3.0\\ProyectoSenaLmour\\ProyectoSenaLmour\\Views\\Reservas\\Create.cshtml",
+              "RelativeToolTip": "ProyectoSenaLmour\\Views\\Reservas\\Create.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T21:52:48.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ProyectoSenaLmour3.0\\ProyectoSenaLmour\\ProyectoSenaLmour\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "ProyectoSenaLmour\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\ProyectoSenaLmour3.0\\ProyectoSenaLmour\\ProyectoSenaLmour\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "ProyectoSenaLmour\\Controllers\\ReservasController.cs",
+              "ViewState": "AQIAAGsAAACA/P///38uwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T21:52:13.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

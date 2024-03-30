@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\User\Downloads\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\User\Downloads\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\User\Downloads\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\User\Downloads\proye\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\User\Downloads\proye\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\User\Downloads\proye\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\proye\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\proye\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\User\Downloads\proye\PROYECTO(2)\PROYECTO\Nueva carpeta (3)\ProyectoSenaLmour3.0\ProyectoSenaLmour\CapaEntidad\obj\Debug\CapaEntidad.pdb

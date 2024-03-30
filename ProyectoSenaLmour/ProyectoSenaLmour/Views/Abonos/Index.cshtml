@@ -1,0 +1,103 @@
+﻿@model IEnumerable<ProyectoSenaLmour.Models.Abono>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<script src="https://cdn.datatables.net/v/dt/dt-2.0.1/datatables.min.js"></script>
+<script src="DataTables/datatables.min.js"></script>
+<script src="~/js/site.js"></script>
+
+<br>
+<br>
+<div class="card">
+    <div class="card-header">
+        <i class="fa-solid fa-calendar-check"></i>Abonos
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-12" />
+            <p>
+                <a asp-action="Create" button type="button" class="btn btn-success">Crear Abonos</a>
+
+                <form asp-controller="Abonos" asp-action="Index">
+                </form>
+
+            </p>
+
+        </div>
+
+<table id="paymentTable" class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaAbono)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorDeuda)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Porcentaje)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pendiente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubTotal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Iva)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantAbono)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdReservaNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaAbono)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorDeuda)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Porcentaje)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pendiente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubTotal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Iva)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CantAbono)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdReservaNavigation.IdReserva)
+            </td>
+            <td>
+                    <a asp-action="Edit" button type="button" class="btn btn-primary" asp-route-id="@item.IdAbono">Editar</a> |
+                    <a asp-action="Details" button type="button" class="btn btn-secondary" asp-route-id="@item.IdAbono">Detalles</a> |
+                    <a asp-action="Delete" button type="button" class="btn btn-danger" asp-route-id="@item.IdAbono">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,60 @@
+﻿@model ProyectoSenaLmour.Models.Role
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h4>Crear Roles</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" asp-controller="Roles">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @* <div class="form-group">
+                <label asp-for="IdRol" class="control-label"></label>
+                <input asp-for="IdRol" class="form-control" />
+                <span asp-validation-for="IdRol" class="text-danger"></span>
+            </div> *@
+          
+
+            <div class="form-group">
+                <label asp-for="NomRol" class="control-label"></label>
+                <select asp-for="NomRol" class="form-control">
+                    <option value="">Seleccione el rol</option>
+                    <option value="Administrador">Administrador</option>
+                    <option value="Cliente">Cliente</option>
+                </select>
+                <span asp-validation-for="NomRol" class="text-danger"></span>
+            </div>
+
+         
+ 
+
+            <div class="form-group">
+                <label asp-for="Estado" class="control-label"></label>
+                <select asp-for="Estado" class="form-control">
+                    <option value="">Seleccione el estado</option>
+                    <option value="Activado">Activado</option>
+                    <option value="Desactivado">Desactivado</option>
+                </select>
+                <span asp-validation-for="Estado" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br>
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Volver</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
